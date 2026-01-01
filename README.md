@@ -8,7 +8,7 @@ pip install torch transformers scipy numpy
 
 ## 🚀 Usage
 
-### ArrowCloak (ALS)
+### Attack ArrowCloak 
 
 ```bash
 cd attack_arrowcloak
@@ -16,7 +16,7 @@ bash attack.sh
 
 ```
 
-### TEMPO (Ratio-based)
+### Attack TEMPO 
 
 ```bash
 cd attack_tempo
